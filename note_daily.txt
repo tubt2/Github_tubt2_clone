@@ -1,0 +1,14 @@
+Bulk insert TUBT_Datamart.dbo.tbl_customer_test from 'E:\Customer.txt' 
+  with 
+    ( 
+       datafiletype    = 'widechar', 
+       fieldterminator = '\t', 
+       rowterminator  = '\n',
+	   firstrow = 2
+    )
+	
+	
+	tk microsoft
+	buithanhtu110694@gmail.com
+		
+	
