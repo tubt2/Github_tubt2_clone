@@ -6,9 +6,3 @@ Bulk insert TUBT_Datamart.dbo.tbl_customer_test from 'E:\Customer.txt'
        rowterminator  = '\n',
 	   firstrow = 2
     )
-	
-	
-	tk microsoft
-	buithanhtu110694@gmail.com
-		
-	
